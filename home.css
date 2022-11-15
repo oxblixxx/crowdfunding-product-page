@@ -14,7 +14,7 @@
 }
 
 .container{
-    width: 1440px;
+    width: 100%;
     height: 150em;
     font-family: 'Commissioner', sans-serif;
     background-color: whitesmoke
@@ -38,7 +38,7 @@ a::after{
     background-position: center;
     background-repeat: no-repeat;
     height: 54vh;
-    width: 1440px;
+    width: 100%;
 }
 
 
@@ -250,30 +250,30 @@ progress{
 }
 
 
-/* THIRD SECTION */
+                            /* THIRD SECTION */
 
 .third-section{
     background: white;
     border-radius: 10px;
-    height: 79em;
+    height: 88em;
     width: 50%;
     top: 80px;
     position: relative;
     left: 10px;
 }
 
-.thirdSectionContents{
+.third-section-contents{
     left: 40px;
     top: 50px;
     position: relative;
 }
 
-.top-3{
+.about-this-project-top{
     position: relative;
     top: 2em;
 }
 
-.top-4{
+.about-this-project-below{
     position: relative;
     top: 4em;
 }
@@ -304,7 +304,7 @@ progress{
     color: var(--color-2);
 }
 
-.bamboo-content{
+.edition-and-stand-content{
     margin: 26px;
     top: -30px;
     position: relative;
@@ -352,9 +352,23 @@ progress{
     right: 48px;
 } */
 
+                    /*  BLACK EDITION STAND */
+
 #black-edition{
     margin-top: 50px;
-} 
+}
+
+#seventy-five{
+    left: 160px;
+    position: relative;
+}
+
+#select{
+    top: -5px;
+    left: 26em;
+    position: relative;
+}
+
 /* FIFTH SECTION */
   /* .fifth-section{
     position: relative;
@@ -368,26 +382,17 @@ progress{
     right: 48px;
 } */
 
+                        /*  MAHOGAMY */
+
  #mahogamy{
     margin-top: 50px;
-    height: 27vh;
 }
 
-#seventyFive{
-    left: 160px;
-    position: relative;
-}
-
-#two{
+#two-hundred{
     left: 78px;
     position: relative;
 }
 
-#select{
-    top: -5px;
-    left: 26em;
-    position: relative;
-}
 
 #stock{
     left: 25em;
