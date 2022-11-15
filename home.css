@@ -21,7 +21,7 @@
     
 }
 
-/* HEADER */
+                                    /* HEADER */
 a{
     text-decoration: none;
     color: white;
@@ -65,7 +65,7 @@ li{
 }
 
 
-/* SECTION */
+                              /* SECTION */
 section{
     align-items: center;
     display: flex;
@@ -73,11 +73,15 @@ section{
     justify-content: center;
     margin-left: 2px;
 }
+
+
+ 
+                            /* FIRST - SECTION */
 .first-section{
     background:  white;
     border-radius: 10px;
     bottom: 80px;
-    height: 30vh;
+    height: 40vh;
     position: relative;
     width: 50%;
 }
