@@ -86,18 +86,31 @@ section{
     width: 50%;
 }
 
+                           /* SECOND - SECTION  */
+
 .second-section{
     background: white;
     border-radius: 10px;
-    height: 19vh;
+    height: 30vh;
     width: 50%;
     font-family: 'Commissioner', sans-serif;
+}
+
+.second-section-content{
     display: flex;
+    top: 40px;
+    position: relative;
     justify-content: space-evenly;
     flex-grow: 1;
 }
 
-
+progress{
+    position: relative;
+    top: 80px;
+    left: 100px;
+    width: 520px;
+    height: 25px;
+}
 
 
 
